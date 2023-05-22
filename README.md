@@ -7,3 +7,5 @@ This project aims to contribute on the advancement of ai, specialy when trying t
 ## Plan
 * First we will add up a database of papers and analyse them to be able to design a LLM framework that can manage code repositories.
 ... TODO :)
+* As a first step we will try to create a library for transforming python code into a json file that can be better managed by a LLM. 
+
